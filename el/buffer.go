@@ -12,7 +12,7 @@
 * You should have received a copy of the GNU General Public License
 * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 *
-* Author: Justin Wong <justin.w.xd@gmail.com>
+* Author: Mahmoud Abdelsalam <scroveez@gmail.com>
 *
  */
 
