@@ -19,7 +19,7 @@
 package el
 
 import (
-	. "elvpn/internal"
+	. "github.com/scroveez/elvpn/internal"
 )
 
 var logger = GetLogger()

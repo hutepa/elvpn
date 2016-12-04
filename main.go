@@ -24,9 +24,8 @@ import (
 	"os"
 	"runtime"
         
-        "elvpn/el"
-	//. "elvpn/el"
-	. "elvpn/internal"
+        "github.com/scroveez/elvpn/el"
+	. "github.com/scroveez/elvpn/internal"
 )
 
 var srvMode, cltMode, debug, getVersion bool
